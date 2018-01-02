@@ -57,3 +57,5 @@ int main() {
 		}cout<<endl;
 	}
 } 
+	cout<<"Nilai A1 : "<<ha[0]<<endl<<"Nilai A2 : "<<ha[1]<<endl<<"Nilai A3 : "<<ha[2]<<endl;
+}
